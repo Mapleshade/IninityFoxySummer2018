@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: c95b6ceebef08344a9b052514683aefa
+timeCreated: 1535538043
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cliffski_transparent1_0
+    21300002: cliffski_transparent1_1
+    21300004: cliffski_transparent1_2
+    21300006: cliffski_transparent1_3
+    21300008: cliffski_transparent1_4
+    21300010: cliffski_transparent1_5
+    21300012: cliffski_transparent1_6
+    21300014: cliffski_transparent1_7
+    21300016: cliffski_transparent1_8
+    21300018: cliffski_transparent1_9
+    21300020: cliffski_transparent1_10
+    21300022: cliffski_transparent1_11
+    21300024: cliffski_transparent1_12
+    21300026: cliffski_transparent1_13
+    21300028: cliffski_transparent1_14
+    21300030: cliffski_transparent1_15
+    21300032: cliffski_transparent1_16
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cliffski_transparent1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 63
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 96.5}
+        - {x: -31.5, y: 76.5}
+        - {x: -31.5, y: -43.5}
+        - {x: -29.5, y: -68.5}
+        - {x: -15.5, y: -96.5}
+        - {x: 20.5, y: -96.5}
+        - {x: 29.5, y: -92.5}
+        - {x: 29.5, y: 96.5}
+      - - {x: -30.5, y: 2.5}
+        - {x: -31.5, y: 0.5}
+        - {x: -31.5, y: -2.5}
+        - {x: -29.5, y: -3.5}
+        - {x: -26.5, y: -3.5}
+        - {x: -25.5, y: -1.5}
+        - {x: -25.5, y: 1.5}
+        - {x: -27.5, y: 2.5}
+      - - {x: 27.5, y: 69.5}
+        - {x: 27.5, y: 67.5}
+        - {x: 29.5, y: 65.5}
+        - {x: 31.5, y: 65.5}
+        - {x: 31.5, y: 71.5}
+        - {x: 29.5, y: 71.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 55
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 96.5}
+        - {x: -27.5, y: 83.5}
+        - {x: -27.5, y: -69.5}
+        - {x: -13.5, y: -96.5}
+        - {x: 26.5, y: -96.5}
+        - {x: 27.5, y: -94.5}
+        - {x: 27.5, y: 96.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 62
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 96.5}
+        - {x: -27, y: 91.5}
+        - {x: -27, y: -79.5}
+        - {x: -20, y: -96.5}
+        - {x: 31, y: -96.5}
+        - {x: 31, y: 96.5}
+      - - {x: -31, y: 68.5}
+        - {x: -31, y: 61.5}
+        - {x: -30, y: 60.5}
+        - {x: -28, y: 60.5}
+        - {x: -26, y: 61.5}
+        - {x: -26, y: 64.5}
+        - {x: -27, y: 68.5}
+      - - {x: -28, y: 73.5}
+        - {x: -29, y: 71.5}
+        - {x: -29, y: 69.5}
+        - {x: -28, y: 67.5}
+        - {x: -25, y: 67.5}
+        - {x: -23, y: 68.5}
+        - {x: -23, y: 72.5}
+        - {x: -24, y: 73.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 55
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 64.5}
+        - {x: -25.5, y: 54.5}
+        - {x: -25.5, y: -44.5}
+        - {x: -19.5, y: -64.5}
+        - {x: 24.5, y: -64.5}
+        - {x: 27.5, y: -54.5}
+        - {x: 27.5, y: 56.5}
+        - {x: 21.5, y: 64.5}
+      - - {x: 23.5, y: -46.5}
+        - {x: 23.5, y: -48.5}
+        - {x: 25.5, y: -50.5}
+        - {x: 27.5, y: -50.5}
+        - {x: 27.5, y: -44.5}
+        - {x: 25.5, y: -44.5}
+      - - {x: -27.5, y: 36.5}
+        - {x: -27.5, y: 30.5}
+        - {x: -25.5, y: 30.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -23.5, y: 34.5}
+        - {x: -25.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 63
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 31.5}
+        - {x: -17, y: 19.5}
+        - {x: -21, y: 3.5}
+        - {x: -21, y: -15.5}
+        - {x: -10, y: -31.5}
+        - {x: 15, y: -31.5}
+        - {x: 21, y: -23.5}
+        - {x: 21, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 85
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 30.5}
+        - {x: -18, y: 28.5}
+        - {x: -18, y: -20.5}
+        - {x: -11, y: -30.5}
+        - {x: 11, y: -30.5}
+        - {x: 18, y: -21.5}
+        - {x: 18, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 30}
+        - {x: -17, y: 30}
+        - {x: -18, y: 27}
+        - {x: -18, y: -20}
+        - {x: -8, y: -30}
+        - {x: 13, y: -30}
+        - {x: 18, y: -29}
+        - {x: 18, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 30}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: -21}
+        - {x: -9.5, y: -30}
+        - {x: 6.5, y: -30}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 30}
+      - - {x: 6.5, y: 10}
+        - {x: 9.5, y: 10}
+        - {x: 9.5, y: 11}
+        - {x: 8.5, y: 9}
+        - {x: 8.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 30}
+        - {x: -15.5, y: 30}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: -20}
+        - {x: -11.5, y: -30}
+        - {x: 6.5, y: -30}
+        - {x: 17.5, y: -4}
+        - {x: 17.5, y: 18}
+        - {x: 15.5, y: 29}
+      - - {x: 16.5, y: -3}
+        - {x: 13.5, y: -6}
+        - {x: 13.5, y: -7}
+        - {x: 16.5, y: -10}
+        - {x: 18.5, y: -10}
+        - {x: 18.5, y: -4}
+        - {x: 17.5, y: -3}
+      - - {x: 6.5, y: 10}
+        - {x: 9.5, y: 11}
+        - {x: 8.5, y: 9}
+        - {x: 8.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 3.5}
+        - {x: -3, y: -3.5}
+        - {x: 3, y: -3.5}
+        - {x: 3, y: 3.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 21
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 22
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cliffski_transparent1_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 22
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

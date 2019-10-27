@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: 632ba8f1fdae05475f94bd4401808363
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 632ba8f1fdae05475f94bd4401808363
+    totalSpriteSurfaceArea: 802488
+    packables:
+    - {fileID: 2800000, guid: aab64e5657994e041b69ceee50baa283, type: 3}
+    - {fileID: 2800000, guid: 0241a3827d8e2434b8a9dcf859e53b98, type: 3}
+    - {fileID: 2800000, guid: c25e3f1a069beeb4cb5567396d5e46e4, type: 3}
+    - {fileID: 2800000, guid: 25178971d9d66184abac4672b6000680, type: 3}
+    - {fileID: 2800000, guid: 881d09dd4689a484bab163c95fb61ce2, type: 3}
+    - {fileID: 2800000, guid: 406089a225e1433459ec673ccac7b03f, type: 3}
+    - {fileID: 2800000, guid: 194057fc852d2384694d31d1ecdd8516, type: 3}
+    - {fileID: 2800000, guid: 80b0d1c7c024d1d44bff218e6bafe89b, type: 3}
+    packedSpriteRenderDataKeys:
+    - aab64e5657994e041b69ceee50baa283: 21300000
+    - 0241a3827d8e2434b8a9dcf859e53b98: 21300000
+    - c25e3f1a069beeb4cb5567396d5e46e4: 21300000
+    - 25178971d9d66184abac4672b6000680: 21300000
+    - 881d09dd4689a484bab163c95fb61ce2: 21300000
+    - 406089a225e1433459ec673ccac7b03f: 21300000
+    - 80b0d1c7c024d1d44bff218e6bafe89b: 21300000
+    - 194057fc852d2384694d31d1ecdd8516: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aab64e5657994e041b69ceee50baa283, type: 3}
+  - {fileID: 21300000, guid: 0241a3827d8e2434b8a9dcf859e53b98, type: 3}
+  - {fileID: 21300000, guid: c25e3f1a069beeb4cb5567396d5e46e4, type: 3}
+  - {fileID: 21300000, guid: 25178971d9d66184abac4672b6000680, type: 3}
+  - {fileID: 21300000, guid: 881d09dd4689a484bab163c95fb61ce2, type: 3}
+  - {fileID: 21300000, guid: 406089a225e1433459ec673ccac7b03f, type: 3}
+  - {fileID: 21300000, guid: 80b0d1c7c024d1d44bff218e6bafe89b, type: 3}
+  - {fileID: 21300000, guid: 194057fc852d2384694d31d1ecdd8516, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FireArrow
+  - IceSpike
+  - Lightning
+  - RainOfFire
+  - FireArrow_small
+  - IceSpike_small
+  - RainOfFire_small
+  - Lightning_small
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

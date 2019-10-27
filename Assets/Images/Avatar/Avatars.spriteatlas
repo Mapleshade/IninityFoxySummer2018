@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Avatars
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: 1dd43cce84515c22c69b9c2e587cff3f
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 1dd43cce84515c22c69b9c2e587cff3f
+    totalSpriteSurfaceArea: 6187125
+    packables:
+    - {fileID: 2800000, guid: 661bc2f0fb442a74c8f9ad348e483ad2, type: 3}
+    - {fileID: 2800000, guid: c30b33c2ec2c23643b933c29a98f2500, type: 3}
+    - {fileID: 2800000, guid: a579cadb2a4d10b4ab57b68b93aaa7ea, type: 3}
+    - {fileID: 2800000, guid: 4b349abefc19d084cb3d25e26a254966, type: 3}
+    - {fileID: 2800000, guid: d3bc217341630ef4a8c0908592a1579c, type: 3}
+    - {fileID: 2800000, guid: 5337745a4aa1b9d40a177b43aaa58c13, type: 3}
+    packedSpriteRenderDataKeys:
+    - 5337745a4aa1b9d40a177b43aaa58c13: 21300000
+    - 4b349abefc19d084cb3d25e26a254966: 21300000
+    - d3bc217341630ef4a8c0908592a1579c: 21300000
+    - a579cadb2a4d10b4ab57b68b93aaa7ea: 21300000
+    - c30b33c2ec2c23643b933c29a98f2500: 21300000
+    - 661bc2f0fb442a74c8f9ad348e483ad2: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5337745a4aa1b9d40a177b43aaa58c13, type: 3}
+  - {fileID: 21300000, guid: 4b349abefc19d084cb3d25e26a254966, type: 3}
+  - {fileID: 21300000, guid: d3bc217341630ef4a8c0908592a1579c, type: 3}
+  - {fileID: 21300000, guid: a579cadb2a4d10b4ab57b68b93aaa7ea, type: 3}
+  - {fileID: 21300000, guid: c30b33c2ec2c23643b933c29a98f2500, type: 3}
+  - {fileID: 21300000, guid: 661bc2f0fb442a74c8f9ad348e483ad2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Poster3
+  - Poster1
+  - Poster2
+  - AvaCat3
+  - AvaCat2
+  - AvaCat1
+  m_Tag: Avatars
+  m_IsVariant: 0
